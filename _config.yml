@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sebastián's website"
+title                    : "Sebastián Orellana C."
 title_separator          : "-"
 name                     : &name "Sebastián Orellana Casanova"
 description              : &description "personal description"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sebastián Orellana Casanova"
   avatar           : "perfil_SEOC.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Engineer & Electronic Engineer"
   location         : "Santiago, Chile"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
